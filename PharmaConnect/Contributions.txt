@@ -1,0 +1,56 @@
+Name : Sampath P.D.D.I
+Number : IT22189462
+Function(s) : Customer Place order / Cancel order 
+Required JSPs and Servelts : 
+
+Order.jsp
+Purchase. jsp
+Order.java
+
+CreateOrder.java
+CancelOrder.java
+
+Model class : Order.java
+
+-----------------------------------------------------------------------------------
+
+Name : Fernando M.D.T
+Number : IT22090744
+Function(s) : Customer regsiter / login / Update account / delete account
+Required JSPs and Servelts : 
+
+registration.jsp
+login.jsp
+customer.jsp
+updateAcc.jsp
+
+regCustomer.java
+logCustomer.java
+logoutCustomer.java
+updateAccount.java
+deleteCustomer.java
+
+Model class : Customer.java
+
+----------------------------------------------------------------------------------
+
+Name : De Silva T R R
+Number : IT22236296
+Function(s) : System admin login / Update / Delete customer
+Required JSPs and Servelts : 
+
+Admin.jsp
+AdminUpdateCutomer.jsp
+AdminUpdateDrug.jsp
+
+AdminUpdateCutomer.java
+AdminUpdateDrug.java
+
+----------------------------------------------------------------------------------
+
+SQL import
+
+Open MYSQL workbench > go to server tab > Data import > import from disk > import from self-contained file > browse project.sql > Select target schema or create a new one > click start import
+
+
+
